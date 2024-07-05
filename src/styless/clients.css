@@ -1,0 +1,32 @@
+.clients{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.clients h1{
+    color: #4D4D4D;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.clients p{
+    color: #717171;
+    font-size: 1rem;
+    margin-top: 8px;
+}
+
+.communities-logo__container{
+    display: flex;
+}
+
+.clients-logo__container{
+    height: 98px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 16px;
+    gap: 8.5rem;
+}
+

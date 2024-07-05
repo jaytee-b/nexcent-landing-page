@@ -1,0 +1,56 @@
+.reports{
+    
+    height: 288px;
+    background: #F5F7FA;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 144px;
+    padding-right: 144px; 
+    margin-top: 48px;
+}
+
+.reports__numbers{
+    /* border: 1px solid; */
+    max-height: 160px;
+    width: 540px;
+}
+
+/* .reports__text{
+    margin-left: 144px;
+    margin-right: 144px;
+} */
+
+.reports__text h1{
+    font-size: 36px;
+    color:#4D4D4D ;
+    margin-bottom: 8px;
+}
+
+.reports__text span{
+    color: #4CAF4F ;
+}
+
+.reports__text p{
+    font-size: 16px;
+    color: #18191F;
+}
+.numbers__container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:40px ;
+    min-width: 255px;
+    
+}
+
+.members__container{
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    /* min-width: 170px; */
+}
+
+
+
+
+

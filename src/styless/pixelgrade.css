@@ -1,0 +1,42 @@
+.pixel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 49px;
+    max-height: 433px;
+    margin-left: 144px;
+    margin-right: 144px;
+    margin-top: 42px;
+    max-height: 433px;
+}
+
+.pixelgrade__container {
+    padding-right: 60px;
+    max-width: 661px;
+    height: 268px;
+}
+
+.pixelgrade__container h3 {
+    font-size: 36px;
+    color: #4D4D4D;
+
+}
+
+.pixelgrade__container p {
+    font-size: 14px;
+    color: #717171;
+    margin-top: 16px;
+
+}
+
+
+.pixelgrade-btn {
+    background: #4CAF4F;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-weight: 600;
+    padding: 14px 32px;
+    margin-top: 32px;
+}

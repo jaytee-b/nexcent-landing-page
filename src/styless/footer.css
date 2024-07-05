@@ -1,0 +1,156 @@
+.footer{
+    margin-top: 96.4px;
+    /* padding-left: 144px;
+    padding-right: 144px; */
+}
+
+.footer-top__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+.footer-top__container h3{
+    text-align: center;
+    font-size: 64px;
+    padding-left: 206.5px;
+    padding-right: 206.5px;
+    color: #263238;
+}
+
+.footer-top__container button{
+    background: #4CAF4F;
+    color: #fff;
+    font-size: 16px;
+}
+
+.footer-btn {
+    display: flex;
+    align-items: center;
+    gap: 10.5px;
+    border: none;
+    padding: 14px 32px;
+    border-radius: 4px;
+    margin-bottom: 32px;
+}
+
+.footer-btn .arrow-icon{
+    font-size: 20px;
+}
+
+.footer-bottom__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 328px;
+    background: #263238;
+    padding-left: 144px;
+    padding-right: 144px;
+}
+
+.copyright-content{
+display: flex;
+flex-direction: column;
+/* gap: 40px; */
+}
+
+.copyright-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+
+.copyright-logo h3{
+    color: #fff;
+    font-size: 32px;
+}
+
+.copyright-content .copyright-text, .copyright-content .rights-text{
+    font-size: 14px;
+    color: #F5F7FA;
+}
+
+.copyright-content .copyright-text{
+    margin-bottom: 8px;
+}
+
+.copyright-content .rights-text{
+    margin-bottom: 40px;
+}
+.copyright-icon__container{
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.copyright-icon__container .icon-content{
+    height: 32px;
+    width: 32px;
+    background: #3C464C;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.copyright-icon__container .icons{
+    color: #fff;
+    font-size: 24px;
+}
+
+.company-content__container h3{
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 24px;
+}
+
+.company-content__container ol{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.company-content__container .company-link{
+    color: white;
+    font-size: 14px;
+}
+
+.email__container{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    height: 200px;
+    gap: 24px;
+}
+
+.email__container .email-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 12px;
+    height: 40px;
+    width: 255px;
+    border-radius: 8px;
+    background: #515B60;
+}
+
+.email-form .icons{
+    transform: rotate(-45deg);
+    color: #F5F7FA;
+}
+
+.email{
+    background: #515B60;
+    color: #F5F7FA;
+    border: none;
+}
+
+
+.email__container h3{
+    font-size: 20px;
+    color: #fff;
+}
